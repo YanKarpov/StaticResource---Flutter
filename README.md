@@ -1,16 +1,13 @@
-# static_resource_app
+# Данный репозоторий заархивирован, все работы по Flutter перенесены в следующий репозиторий https://github.com/YanKarpov/FlutterTasks
 
-A new Flutter project.
+## static_resources_app
 
-## Getting Started
+Пример Flutter-приложения с использованием статических ресурсов — изображений и пользовательского шрифта.
 
-This project is a starting point for a Flutter application.
+## Содержимое
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Подключение и отображение **трёх изображений** из папки `assets/images/`
+- Использование **кастомного шрифта** из папки `assets/fonts/`
+- Применение **темы приложения** с пользовательским шрифтом
+- Адаптивный интерфейс с вертикальным/горизонтальным размещением изображений
+- Поддержка Material Design
